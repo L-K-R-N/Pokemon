@@ -3,7 +3,7 @@ English description | <a href="README.md">Описание на русском <
 </p>
 
 
-## Покемоны
+# ПОКЕМОНЫ
 ...
 
 <br>

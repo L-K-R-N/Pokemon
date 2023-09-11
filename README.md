@@ -3,7 +3,7 @@
 </p>
 
 
-## Pokemon
+# POKEMON
 ...
 
 <br>
@@ -28,7 +28,7 @@ Navigation:
 
 Styles:
 * Material UI
-* SCSS
+* Styled Components
 
 Forms:
 * React Hook Form
